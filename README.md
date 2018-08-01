@@ -1,3 +1,16 @@
+# Архитектура [deeplearning4j]  фреймворка для глубокого обучения
+https://github.com/gridgentoo/deeplearning4j
+https://drive.google.com/drive/folders/1urykDEER9tFap2weFVq2qPh5mz-r7svu
+
+# Архитектура [deeplearning4j] фреймворка для глубокого обучения. 
+Обучение в Deeplearning4j осуществляется через кластеры. Нейронные сети обучаются параллельно по итерациям, процесс поддерживается архитектурами Hadoop-YARN и Spark. Deeplearning4j осуществляет также интеграцию с ядром архитектуры CUDA для осуществления чистых операций с GPU и распределения операций на графических процессорах.
+![Image alt](https://i2.wp.com/mesutpiskin.com/blog/wp-content/uploads/2017/09/dl4j-eco-tr.jpg.jpg)
+
+Deep Learning with DeepLearning4J and Spring Boot - Artur Garcia & Dimas Cabré @ Spring I/O 
+
+https://www.youtube.com/watch?v=RlL9MNT-R3k
+
+
 <!--
 Copyright 2016 Yahoo Inc.
 Licensed under the terms of the Apache 2.0 license.
