@@ -2,6 +2,7 @@
 https://drive.google.com/drive/folders/1-3HJ2vGw7JNlaupsuJKj6x-BFl-tEPRJ
 
 ![Image alt](https://78.media.tumblr.com/ca004ff94918dca10d533cd118c8a914/tumblr_inline_o2vo8lJDh81t17fny_540.jpg)
+![Image alt](https://pbs.twimg.com/media/DZqtEIVX0AAd2bQ.jpg)
 
 # Архитектура [deeplearning4j]  фреймворка для глубокого обучения
 https://github.com/gridgentoo/deeplearning4j
